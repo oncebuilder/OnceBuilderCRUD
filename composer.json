@@ -1,0 +1,24 @@
+{
+  "name": "OnceBuilder/OnceBuilder-CRUD",
+  "description": "OnceBuilder - admin control panel and dashboard that's based on AdminLTE",
+  "homepage": "http:/oncebuilder.com/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "web"
+  ],
+  "authors": [
+    {
+      "name": "Adam Wysocki",
+      "email": "support@oncebuilder.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/oncebuilder/OnceBuilder-CRUD/issues"
+  }
+}

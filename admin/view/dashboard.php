@@ -43,7 +43,14 @@ $str='
 				</br>
 				<p>Anyway... you may use this CRUD for your project or cooperate with OnceBuilder and make your own modules and we will choose the most usefull ones.</p>
 				</br>
-				<p>Fell free to join our community, learn how you will be able to make any most of sites in less than one hour... <a target="_blank" href="http://facebook.com/oncebuilder">http://facebook.com/oncebuilder</a></p>
+				<p>Fell free to help us, join our community, learn how you will be able to build most of sites in less than one hour. <a target="_blank" href="http://facebook.com/oncebuilder">http://facebook.com/oncebuilder</a></p>
+				</br>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="MD28E5PXFCY5N">
+					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+					<img alt="" border="0" src="https://www.paypalobjects.com/pl_PL/i/scr/pixel.gif" width="1" height="1">
+				</form>
 			</div><!-- /.box-body -->
 		</div><!-- /.box -->
 	</div><!-- /.col -->

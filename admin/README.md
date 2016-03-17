@@ -1,10 +1,10 @@
-Announcements:
---------------
+Introduction
+============
 **OnceBuilder CRUD ** -- is a fully dynamic admin template based on OnceBuilder Core and Admin LTE template. Highly customizable and easy to use. Works on many screen resolutions from mobile devices to large desktops. 
 
 **Live Preview: http://oncebuild.com/crud
 
-**OnceBuilder CMF discussion and review:** available now on the (http://facebook.com/oncebuilder
+**OnceBuilder CMF discussion and review:** available now on the http://facebook.com/oncebuilder
 
 Special Features:
 -----------------
